@@ -1,0 +1,22 @@
+{
+  "name": "vli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bersilius/vli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Adam Bereczk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bersilius/vli/issues"
+  },
+  "homepage": "https://github.com/bersilius/vli#readme"
+}
